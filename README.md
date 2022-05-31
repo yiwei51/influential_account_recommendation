@@ -3,6 +3,9 @@ Dataset for recommending influential accounts on social media
 
 ----------------------
 
+We only provide the test data in this repository due to the large file size.
+The full dataset will be released using Google drive.
+
 Brand dataset
 
 
