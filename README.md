@@ -2,8 +2,10 @@
 
 Dataset for recommending influential accounts on social media
 
+Yiwei Zhang, Xueting Wang, Toshihiko Yamasaki. Which account will you follow? Recommending influential accounts on social media. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-14538-3
+
 We only provide the test data in this repository due to the large file size.
-The full dataset will be released using Google drive.
+The full dataset will be released using Google drive. Please contact the following address: jinyuzyw@gmail.com
 
 ----------------------
 
